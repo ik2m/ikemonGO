@@ -1,0 +1,5 @@
+body {
+  /* スクロールバー除去 */
+  margin: 0;
+  overflow: hidden;
+}
